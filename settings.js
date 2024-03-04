@@ -38,7 +38,7 @@ global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile
 global.mess = {
     success: '\n*©1 ⁴ 9 2 ⁰⁰**!', 
     admin: 'Admin tan chiah!',
-    botAdmin: 'Admin Add tir mai rawh!',
+    botAdmin: 'muhil ro🤣🤣🤣!',
     owner: '1 9 2 ⁰⁰*!chauh hian ahmangthei',
     group: 'Group ah va ti rawh i duh leh🤣!',
     private: 'Hei chu private chat-ah chauh hman thei tura siam a ni!',
