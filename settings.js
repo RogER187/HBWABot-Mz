@@ -15,16 +15,16 @@ global.mtl_language = false // multi language i hman dawn chuan true ah dah tur
 global.bot_language = 'lus' // I language code dah tur code hman i hriat loh chuan https://herbert70.blogspot.com/p/language-code-for-hbwabot.html?m=1 he link ah hian en thei a ni ang
 
 //info
-global.owner = ['919362640836'] // I phone number in thlak rawh
-global.ownernumber = '919362640836' // I phone number in thlak rawh
+global.owner = [+918798838231'] // I phone number in thlak rawh
+global.ownernumber = '91879883823' // I phone number in thlak rawh
 global.ownername = "1 ⁴ 9 2 ⁰⁰*" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
-global.botname = "14920* Mizo" // I bot hming tur dah la
+global.botname = "THE MAN A KA NIH HI" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
-global.creator = "919362640836@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
+global.creator = "91879883823@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
-global.ownerNumber = ["919362640836@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
+global.ownerNumber = ["91879883823@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
 global.prefa = ['','!','.','#','/']
 global.sessionName = 'session'
 
@@ -37,10 +37,10 @@ global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile
 //messages
 global.mess = {
     success: '\n*©1 ⁴ 9 2 ⁰⁰**!', 
-    admin: 'Admin tan chiah!',
-    botAdmin: 'muhil ro🤣🤣🤣!',
-    owner: '1 9 2 ⁰⁰*!chauh hian ahmangthei',
-    group: 'Group ah va ti rawh i duh leh🤣!',
+    admin: 'Zong hmelchhe pa i in la pawr ve deuh ami a🤬',
+    botAdmin: 'Zawng hmelchhe pa i apwr em!',
+    owner: 'I in la pa ve deuh ami',
+    group: 'Ngawi maimai teh!',
     private: 'Hei chu private chat-ah chauh hman thei tura siam a ni!',
     bot: 'A HO',
 }
