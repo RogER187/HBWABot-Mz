@@ -37,10 +37,10 @@ global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile
 //messages
 global.mess = {
     success: '\n*©1 ⁴ 9 2 ⁰⁰**!', 
-    admin: '⭕⭕⭕⭕⭕⭕',
-    botAdmin: '⭕⭕⭕⭕⭕',
-    owner: '⭕⭕⭕⭕⭕',
-    group: '⭕⭕⭕⭕⭕',
+    admin: '🤫',
+    botAdmin: '🤫',
+    owner: '🤫',
+    group: '🤫',
     private: 'Hei chu private chat-ah chauh hman thei tura siam a ni!',
     bot: 'A HO',
 }
